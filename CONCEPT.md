@@ -48,9 +48,13 @@ un directorio es una lista y sirve para buscar cosas que **ya sabes que existen*
 
 ## la biblia de diseño
 **1. descubrimiento sobre búsqueda**: el valor no está en encontrar algo específico. está en encontrar algo que no sabías que existía o necesitabas.
+
 **2. la comunidad es el motor**: la plataforma no puede depender de una entidad oficial que no actualiza nada. el contenido lo generan y mantienen los propios estudiantes y clubes.
+
 **3. las conexiones son la prioridad**: en un directorio, una alianza entre clubes sería una nota al pie. en este proyecto, es parte central de la estructura.
+
 **4. crecer sin romperse**: el grafo empieza pequeño — solo clubes — y crece orgánicamente añadiendo nuevos tipos de nodos. cada fase añade profundidad sin reemplazar lo anterior. (hint a cómo se desarrollará).
+
 **5. abierto por defecto** (y FOSS): cualquiera puede leer y explorar sin registrarse. la fricción para consumir debe ser cero. ***capital zero***.
 
 ## qué hace a trama diferente
